@@ -34,10 +34,7 @@
     "use-event-callback": "^0.1.0",
     "use-key-hook": "^1.3.0"
   },
-  "peerDependencies": {
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0"
-  },
+  
   "homepage": "/react-image-annotate",
   "repository": {
     "type": "git",
